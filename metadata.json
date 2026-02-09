@@ -1,0 +1,9 @@
+
+{
+  "name": "CimZala Cats - Katteadopsjon",
+  "description": "En klassisk og minimalistisk nettside for adopsjon av katter, designet for en sømløs brukeropplevelse i lyse farger og med full norsk støtte.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
