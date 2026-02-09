@@ -7,7 +7,7 @@ const AboutUs: React.FC = () => {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-16">
         <div className="w-full md:w-1/2 rounded-2xl overflow-hidden shadow-2xl">
           <img 
-            src="assets/cat3.jpg" 
+            src="/assets/cat3.jpg" 
             alt="CimZala Cats Miljø" 
             className="w-full h-[500px] object-cover"
           />

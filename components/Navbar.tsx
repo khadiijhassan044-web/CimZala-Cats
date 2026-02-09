@@ -6,7 +6,7 @@ const Navbar: React.FC = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-sm border-b border-stone-100 h-20 flex items-center px-6 md:px-12 justify-between">
       <div className="h-16 w-auto flex items-center">
     <img 
-        src="assets/freepik__enhance-image-quality-only-do-not-change-anything-__75800.png" 
+        src="/assets/freepik__enhance-image-quality-only-do-not-change-anything-__75800.png" 
         alt="CimZala Catz" 
         className="h-full w-auto object-contain"
     />
